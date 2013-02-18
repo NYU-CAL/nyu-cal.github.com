@@ -1,44 +1,8 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>title</title>
-    <link href='http://fonts.googleapis.com/css?family=Cardo'
-	  rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="stylesheet.css" type="text/css">
-  </head>
 
-</style>
-</head>
+# NYU Computational Astrophysics Lab
+![CAL group](group.jpeg "Title of the image")
 
-<body>
-  <div id="container">
-
-    <div id="header">
-      
-
-    </div>
-    <div id="left_sidebar">
-      <h1><a href="home">Home</a></h1>
-
-<h1><a href="about">About</a></h1>
-
-<h1><a href="people">People</a></h1>
-
-<h1><a href="research">Research</a></h1>
-
-<h1><a href="codes">Codes</a></h1>
-
-    </div>
-    <div id="right_sidebar">
-      
-    </div>
-    <div id="main_content">
-      <h1>NYU Computational Astrophysics Lab</h1>
-
-<p><img src="group.jpeg" title="Title of the image" alt="CAL group" /></p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut in mi et quam mollis
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut in mi et quam mollis
 varius. Nulla leo risus, auctor et molestie quis, fringilla pellentesque
 tortor. Sed mollis velit non massa varius molestie. Morbi in urna lorem. Aliquam
 erat volutpat. Fusce vel diam sed nibh rhoncus tempus. Donec tempus magna nec
@@ -48,15 +12,15 @@ scelerisque pharetra lorem id ultrices. Nulla sit amet quam dolor, non ornare
 sem. Fusce feugiat placerat ultrices. Duis id ullamcorper mi. Nulla hendrerit
 posuere risus in posuere. Etiam laoreet urna in metus condimentum
 vulputate. Morbi consectetur, ante sollicitudin consectetur convallis, elit
-lectus ultrices nisi, ut bibendum est purus a nulla.</p>
+lectus ultrices nisi, ut bibendum est purus a nulla.
 
-<hr />
+---
 
-<h1>People</h1>
+# People
 
-<h2>Andrew</h2>
+## Andrew
 
-<p>Nam fringilla sem vitae diam hendrerit bibendum. Proin vel erat ante, et
+Nam fringilla sem vitae diam hendrerit bibendum. Proin vel erat ante, et
 fringilla tortor. Vestibulum ante ipsum primis in faucibus orci luctus et
 ultrices posuere cubilia Curae; Curabitur vitae feugiat justo. Nam molestie
 blandit nisl, ut venenatis turpis dictum eu. Morbi tincidunt cursus
@@ -64,15 +28,15 @@ aliquam. Integer mattis sagittis nisi quis posuere. Mauris bibendum, magna eget
 consequat vehicula, neque eros molestie quam, a euismod magna leo vel mi. Sed eu
 lectus sit amet enim tempor tincidunt in adipiscing arcu. Donec egestas eros sit
 amet neque pulvinar vel laoreet nunc tristique. Phasellus volutpat sapien ac
-nibh suscipit egestas. Quisque interdum lacus lorem, et convallis orci.</p>
+nibh suscipit egestas. Quisque interdum lacus lorem, et convallis orci.
 
-<h3>Publications list</h3>
+### Publications list
 
-<p>Here are Andrew&rsquo;s publications</p>
+Here are Andrew's publications
 
-<h3>Other things</h3>
+### Other things
 
-<p>Sed interdum lorem quis orci posuere gravida. Suspendisse fermentum nunc vel
+Sed interdum lorem quis orci posuere gravida. Suspendisse fermentum nunc vel
 quam pharetra lobortis. Ut hendrerit sem eu nunc vulputate placerat fermentum
 nulla placerat. Quisque vitae enim id nunc semper elementum. Suspendisse
 potenti. Nam auctor, tortor non posuere consectetur, neque ipsum pretium nisi,
@@ -81,11 +45,11 @@ at a libero. Curabitur congue suscipit risus ac porta. Cras imperdiet tortor in
 mi tempor sit amet rutrum purus venenatis. Nullam quis neque massa. Nulla
 bibendum venenatis lacus, non bibendum lorem pretium eu. Duis volutpat, dui
 tempus ultrices sodales, augue lacus bibendum lorem, sit amet tristique erat
-purus ut sapien.</p>
+purus ut sapien.
 
-<h2>Paul</h2>
+## Paul
 
-<p>Nullam suscipit convallis diam, at ullamcorper ipsum pharetra quis. Duis id
+Nullam suscipit convallis diam, at ullamcorper ipsum pharetra quis. Duis id
 pretium neque. Maecenas tempor, massa vitae pulvinar scelerisque, ligula est
 pharetra orci, vel ultrices dolor sapien ac lacus. Proin dui lacus, pharetra
 pellentesque posuere vel, consequat non lacus. Maecenas ornare, enim in sagittis
@@ -93,57 +57,49 @@ lobortis, massa enim pulvinar velit, nec convallis felis mauris sit amet
 eros. Maecenas sed enim ipsum. Integer lobortis urna eget massa dignissim
 luctus. Suspendisse massa velit, molestie sed gravida et, pharetra eget
 sem. Nunc in mi lacus. Aliquam vel tincidunt ligula. Aliquam sagittis porttitor
-interdum.</p>
+interdum.
 
-<h3>Publication list</h3>
+### Publication list
 
-<p>Here are Paul&rsquo;s publications</p>
+Here are Paul's publications
 
-<h2>Jonathan</h2>
+## Jonathan
 
-<p>Donec quis metus et mi vehicula dictum non sed sapien. Donec tincidunt sapien
+Donec quis metus et mi vehicula dictum non sed sapien. Donec tincidunt sapien
 nec odio mollis sit amet fringilla leo eleifend. Suspendisse et dolor at eros
 vulputate cursus non euismod lacus. Mauris ullamcorper bibendum sapien,
 fringilla dictum lorem blandit ac. Aliquam eget justo felis, ac sollicitudin
 mi. Aliquam condimentum pellentesque nunc non egestas. Morbi aliquet laoreet
 auctor. Suspendisse sodales elementum ligula, ac ornare enim vestibulum
 id. Maecenas in ligula magna. In lobortis, dui quis bibendum porta, metus enim
-lobortis nisi, eu lacinia nisl nulla ac sem.</p>
+lobortis nisi, eu lacinia nisl nulla ac sem.
 
-<h3>Projects</h3>
+### Projects
 
-<h4><a href="http://jzrake.github.com/ctf">Mara: computational turbulence</a></h4>
+#### [Mara: computational turbulence](http://jzrake.github.com/ctf)
 
-<h4>Other projects</h4>
+#### Other projects
 
-<h1>Research</h1>
+# Research
 
-<h2>Project 1</h2>
+## Project 1
 
-<p>Donec quis metus et mi vehicula dictum non sed sapien. Donec tincidunt sapien
+Donec quis metus et mi vehicula dictum non sed sapien. Donec tincidunt sapien
 nec odio mollis sit amet fringilla leo eleifend. Suspendisse et dolor at eros
 vulputate cursus non euismod lacus. Mauris ullamcorper bibendum sapien,
 fringilla dictum lorem blandit ac. Aliquam eget justo felis, ac sollicitudin
 mi. Aliquam condimentum pellentesque nunc non egestas. Morbi aliquet laoreet
 auctor. Suspendisse sodales elementum ligula, ac ornare enim vestibulum
 id. Maecenas in ligula magna. In lobortis, dui quis bibendum porta, metus enim
-lobortis nisi, eu lacinia nisl nulla ac sem.</p>
+lobortis nisi, eu lacinia nisl nulla ac sem.
 
-<h2>Project 2</h2>
+## Project 2
 
-<p>Donec quis metus et mi vehicula dictum non sed sapien. Donec tincidunt sapien
+Donec quis metus et mi vehicula dictum non sed sapien. Donec tincidunt sapien
 nec odio mollis sit amet fringilla leo eleifend. Suspendisse et dolor at eros
 vulputate cursus non euismod lacus. Mauris ullamcorper bibendum sapien,
 fringilla dictum lorem blandit ac. Aliquam eget justo felis, ac sollicitudin
 mi. Aliquam condimentum pellentesque nunc non egestas. Morbi aliquet laoreet
 auctor. Suspendisse sodales elementum ligula, ac ornare enim vestibulum
 id. Maecenas in ligula magna. In lobortis, dui quis bibendum porta, metus enim
-lobortis nisi, eu lacinia nisl nulla ac sem.</p>
-
-    <div id="footer">
-      
-    </div>
-
-  </div>
-</body>
-</html>
+lobortis nisi, eu lacinia nisl nulla ac sem.

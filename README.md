@@ -1,4 +1,4 @@
 CAL-site
 ========
 
-NYU Computational Astrophysics Lab
+NYU Computational Astrophysics Lab's website
