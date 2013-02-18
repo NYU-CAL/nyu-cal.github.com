@@ -3,7 +3,7 @@
 
 * Welcome
   [[file:group.jpeg][group.jpeg]]
-  This is the CAL website.
+  Welcome to the CAL website.
 * People
 ** Andrew
 *** Publications list
