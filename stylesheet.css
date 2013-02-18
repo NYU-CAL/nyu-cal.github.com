@@ -21,6 +21,12 @@ a:visited { }
 a:hover { }
 p { }
 
+table, th, td
+{
+    text-align: center;
+    border: 1px solid black;
+}
+
 #container {
     width: fluid;
     width: 100%;

@@ -78,6 +78,27 @@ lobortis nisi, eu lacinia nisl nulla ac sem.
 
 #### [Mara: computational turbulence](http://jzrake.github.com/ctf)
 
+
+<div class="equation">
+
+$$ \left(\begin{array}{c} \rho(x,t) \\ p(x,t) \\ u(x,t) \end{array}\right) =
+\left(\begin{array}{c} \rho_0 + \rho_1 \cos{(k_0 x - \omega_0 t)} \\ p_0 + p_ 1
+\cos{(k_0 x - \omega_0 t)} \\ u_0 + u_1 \cos{(k_0 x - \omega_0 t)} \\
+\end{array}\right) $$
+
+</div>
+
+| $$N$$| `HLLC-PLM-MUSCL` | `HLLC-PLM-RK3` | `HLLC-WENO5-RK3` | `CHAR-WENO5-RK3` | `CHAR-WENO5-RK4` |
+|------|--------|------|--------|--------|--------|
+|   16 |   2.07 | 2.27 |   4.52 |   4.46 |   4.53 |
+|   32 |   2.23 | 2.04 |   4.42 |   4.69 |   4.95 |
+|   64 |   2.25 | 2.08 |   3.97 |   4.33 |   5.04 |
+|  128 |   2.27 | 2.00 |   3.40 |   3.66 |   5.04 |
+|  256 |   2.36 | 2.01 |   3.13 |   3.23 |   5.13 |
+|  512 |   2.28 | 1.98 |   3.04 |   3.06 |   5.28 |
+| 1024 |   2.35 | 2.00 |   3.01 |   3.02 |   5.44 |
+
+
 #### Other projects
 
 # Research
